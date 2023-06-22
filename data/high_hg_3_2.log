@@ -1,0 +1,57 @@
+; IDL Version 8.5 (linux x86_64 m64)
+; Journal File for buder@avatargpue.anu.edu.au
+; Working directory: /avatar/buder/GALAH_DR4/spectrum_grids
+; Date: Fri Jun 23 08:30:00 2023
+ 
+high_hg,3,2
+;Running spectrum index 3 with TEFF 5000.00 LOGG 4.00000 FEH 0.00000 VMIC 0.998000
+;Adjusted [Fe/H] and sme.abund[25], A(X=25)
+;      0.00000     -4.58586      7.45000
+;X, Elem, sme.abund,    A(X),        [X/H],       [X/Fe],      [X/Fe] (aim)
+;3 Li     -10.9859      1.05000 -9.53674e-07 -1.43051e-06
+;6 C     -3.64586      8.39000      0.00000 -4.76837e-07
+;7 N     -4.25586      7.78000      0.00000 -4.76837e-07
+;8 O     -3.37586      8.66000      0.00000 -4.76837e-07
+;11 Na     -5.86586      6.17000      0.00000 -4.76837e-07
+;12 Mg     -4.50586      7.53000      0.00000 -4.76837e-07
+;13 Al     -5.66586      6.37000      0.00000 -4.76837e-07
+;14 Si     -4.52586      7.51000      0.00000 -4.76837e-07
+;19 K     -6.95586      5.08000      0.00000 -4.76837e-07
+;20 Ca     -5.72586      6.31000      0.00000 -4.76837e-07
+;21 Sc     -8.86586      3.17000 -9.53674e-07 -1.43051e-06
+;22 Ti     -7.13586      4.90000      0.00000 -4.76837e-07
+;23 V     -8.03586      4.00000      0.00000 -4.76837e-07
+;24 Cr     -6.39586      5.64000      0.00000 -4.76837e-07
+;25 Mn     -6.64586      5.39000      0.00000 -4.76837e-07
+;26 Fe     -4.58586      7.45000  4.76837e-07      0.00000
+;27 Co     -7.11586      4.92000      0.00000 -4.76837e-07
+;28 Ni     -5.80586      6.23000      0.00000 -4.76837e-07
+;29 Cu     -7.82586      4.21000      0.00000 -4.76837e-07
+;30 Zn     -7.43586      4.60000      0.00000 -4.76837e-07
+;37 Rb     -9.43586      2.60000 -9.53674e-07 -1.43051e-06
+;38 Sr     -9.11586      2.92000 -9.53674e-07 -1.43051e-06
+;39 Y     -9.82586      2.21000      0.00000 -4.76837e-07
+;40 Zr     -9.45586      2.58000      0.00000 -4.76837e-07
+;42 Mo     -10.1159      1.92000 -9.53674e-07 -1.43051e-06
+;44 Ru     -10.1959      1.84000 -9.53674e-07 -1.43051e-06
+;56 Ba     -9.86586      2.17000 -9.53674e-07 -1.43051e-06
+;57 La     -10.9059      1.13000 -9.53674e-07 -1.43051e-06
+;58 Ce     -10.3359      1.70000      0.00000 -4.76837e-07
+;60 Nd     -10.5859      1.45000      0.00000 -4.76837e-07
+;62 Sm     -11.0359      1.00000      0.00000 -4.76837e-07
+;63 Eu     -11.5159     0.520000 -9.53674e-07 -1.43051e-06
+;80 Hg     -9.90586      2.13000     0.999999     0.999999
+;SME Library version: 5.22, linux
+;SME Package version: 580
+;SME Structure version: 5.1
+;SME started the calculations on Fri Jun 23 08:30:01 2023
+;SME completed the calculations in 0h2m48s
+;Number of significant lines       16059
+;Number of significant lines + H1       16059
+;Number of significant lines + H1 + all atomic lines       17551
+;SME Library version: 5.22, linux
+;SME Package version: 580
+;SME Structure version: 5.1
+;SME started the calculations on Fri Jun 23 08:32:50 2023
+;SME 580 adjusted: Using predefined equidistant wavelength grid
+;SME completed the calculations in 0h4m47s

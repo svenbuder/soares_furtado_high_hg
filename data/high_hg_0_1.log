@@ -1,0 +1,12 @@
+; IDL Version 8.5 (linux x86_64 m64)
+; Journal File for buder@avatargpue.anu.edu.au
+; Working directory: /avatar/buder/GALAH_DR4/spectrum_grids
+; Date: Thu Jun 22 10:19:11 2023
+ 
+high_hg,0,1
+; % STRING: Variable is undefined: F.
+high_hg,0,2
+;MRDFITS: Binary table.  6 columns by  2 rows.
+;       0       2
+high_hg_0_2.log
+; % STRING: Variable is undefined: F.
